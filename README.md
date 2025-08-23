@@ -1,13 +1,6 @@
 # MY_PROJECT# Python Projects Collection 🎉
 
-This folder contains **10 beginner-friendly Python projects**.  
-Each project is in its own `.py` file. You can run them using:
 
-```bash
-python filename.py
-```
-
----
 
 ## 📌 Projects List
 
